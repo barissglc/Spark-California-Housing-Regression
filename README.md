@@ -65,6 +65,8 @@ This project utilizes PySpark to perform **advanced data preprocessing, feature 
 ✔ **Performance Metrics**: Models are evaluated using **RMSE, MAE, and R²** to ensure optimal performance.  
 ✔ **Final Outcome**: The **Random Forest model** achieved the highest accuracy and best overall performance. (RMSE: 44570.355263381374)
 
+**NOTE: This project was developed for the Milli Teknoloji Akademisi Artificial Intelligence Specialization Program.**
+
 ---
 
 ## 📉 Visualizations
